@@ -23,3 +23,5 @@ class ViewController: UIViewController {
 
 }
 
+var k = 1
+var c = "katt"
